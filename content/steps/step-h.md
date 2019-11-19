@@ -1,6 +1,6 @@
 ---
 title: Step 7
-order: 7
+order: 17
 ---
 
 ## How are components created?

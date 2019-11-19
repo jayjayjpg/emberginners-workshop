@@ -1,6 +1,6 @@
 ---
 title: Step 9
-order: 9
+order: 19
 ---
 
 ## Where to find addons?

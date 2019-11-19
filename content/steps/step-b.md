@@ -1,6 +1,6 @@
 ---
 title: Step 1 - JavaScript
-order: 1
+order: 11
 ---
 
 #### Exercise 1a: Showing a message box

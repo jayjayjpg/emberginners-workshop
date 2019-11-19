@@ -49,7 +49,7 @@
     "qunit-dom": "^0.8.0",
     "sass": "^1.17.3",
     "training-buddy": "^0.1.1",
-    "training-buddy-default-template": "^0.1.2"
+    "training-buddy-default-template": "jessica-jordan/training-buddy-default-template#update-template"
   },
   "engines": {
     "node": "6.* || 8.* || >= 10.*"

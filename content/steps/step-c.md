@@ -1,6 +1,6 @@
 ---
 title: Step 2 - Git Clone
-order: 2
+order: 12
 ---
 
 ## Exercise 2a: Cloning a git repo

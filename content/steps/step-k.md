@@ -1,6 +1,6 @@
 ---
 title: Step 10
-order: 10
+order: 20
 ---
 
 # What is a deployment?

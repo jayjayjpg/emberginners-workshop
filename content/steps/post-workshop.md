@@ -3,15 +3,10 @@ title: Post-Workshop
 order: 999
 ---
 
-# That's it, folks!
+Now that we have everything installed correctly we will be ready to start working very fast tomorrow 🎉
 
-This is it! You've just built your very first JavaScript application using EmberJS - congratulations! ✨
+If you weren't able to get anything installed today please remember to ask one of the Mentors in the room! They are here to help and all of them really want to see you succeed 🙌
 
-A few more words...
+See you tomorrow for the main event!
 
-If you wanna learn more about Ember or JavaScript in general, be sure to check out the
-- [Full Super Rentals tutorial](https://guides.emberjs.com/release/tutorial/ember-cli/) which this workshop is based on
-- Learn more about Ember using [the official Guides](https://guides.emberjs.com/release/getting-started/quick-start/)
-- Join your [local Ember meetup group](https://www.meetup.com/Ember-js-Berlin/) and meet other Ember developers
-- Join a [local JavaScript learning group by OpenTechSchool Berlin](https://www.meetup.com/opentechschool-berlin/events/) or another programming group like [RailsGirls](http://railsgirls.com/berlin)
-- Join our [Emberginners Discord channel](#x) and stay in contact with other attendees
+<span style="font-size: 100px">👋</span>
