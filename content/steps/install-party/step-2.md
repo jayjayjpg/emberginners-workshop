@@ -21,7 +21,12 @@ When we enter a url into the address bar of a browser, the browser tries to find
 
 You may wonder: how can a website have its own address?
 
-Not only humans, but also websites need a place to live. In general, websites live on so-called **servers**. A website may be found and retrieved by its address, its so-called **IP**, that consists of numbers and is oftentimes translated into a more human-friendly url consisting of words, such as `https://guardian.co.uk`. An IP indicates in which particular server a website lives. A server is usuallt a computer that is running in some part of the world, is connected to the internet and will _serve_ a website back to anyone who requests it (e.g. a user visiting the website using their browser). There are other ways than using a browser to ask a server to return a website. We will learn more about different methods later.
+Not only humans, but also websites need a place to live. In general, websites live on so-called **servers**. A website may be found and retrieved by its address, its so-called **IP**, that consists of numbers and is oftentimes translated into a more human-friendly url consisting of words, such as `https://guardian.co.uk`. An IP indicates in which particular server a website lives.
+
+![Analogy Server IP to  House Address](/images/server-address.png)
+
+
+A server is usually a computer that is running in some part of the world, is connected to the internet and will _serve_ a website back to anyone who requests it (e.g. a user visiting the website using their browser). There are other ways than using a browser to ask a server to return a website. We will learn more about different methods later.
 
 
 ### What else can a browser do?
