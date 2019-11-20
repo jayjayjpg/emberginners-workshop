@@ -1,5 +1,5 @@
 ---
-title: Step 2 - Git Clone
+title: Step 3 - Git Clone
 order: 12
 ---
 

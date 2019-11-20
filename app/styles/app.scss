@@ -11,3 +11,9 @@ img {
 code {
   line-height: 1.4;
 }
+
+.guide-page {
+  &.page-content {
+    line-height: 1.6;
+  }
+}

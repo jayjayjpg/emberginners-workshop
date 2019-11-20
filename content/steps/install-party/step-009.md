@@ -33,4 +33,4 @@ npm start
 
 You can also use `ember serve` to start your ember app.
 
-If all has gone well you can navigate to http://localhost:4200 to see the Ember demo app running
+If all has gone well you can navigate to http://localhost:4200 to see the Ember demo app running. You can do so by copy-pasting the url into the address bar of your browser Chrome and hitting Enter. See what it does live in action!

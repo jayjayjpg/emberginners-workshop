@@ -1,9 +1,9 @@
 ---
-title: Step 2 - Chrome Browser
+title: Step 2 - The Browser
 order: 2
 ---
 
-## What is browser?
+## What is a browser?
 
 A browser is a program running on your laptop or desktop computer that allows you to browse the internet and visit websites online. Examples for commonly used browers are Google Chrome, Firefox, Safari and Edge.
 
@@ -21,17 +21,24 @@ When we enter a url into the address bar of a browser, the browser tries to find
 
 You may wonder: how can a website have its own address?
 
-Not only humans, but also websites need a place to live. In general, websites live on so-called **servers**. A website may be found and retrieved by its address, its so-called **IP**, that consists of numbers and is oftentimes translated into a more human-friendly url consisting of words, such as `https://guardian.co.uk`. An IP indicates in which particular server a website lives.
+Not only humans, but also websites need a place to live. In general, websites live on so-called **servers**.
 
-![Analogy Server IP to  House Address](/images/server-address.png)
+![Analogy Server and Website. Servers may host websites, just like houses host people.](/images/ember-workshop-install-export-p1-a.jpg)
 
+A website may be found and retrieved by its address, its so-called **IP** address (Internet Protocol Address). An IP is a unique label consisting of numbers that is assigned to devices connected to the internet, e.g. also to servers.
 
-A server is usually a computer that is running in some part of the world, is connected to the internet and will _serve_ a website back to anyone who requests it (e.g. a user visiting the website using their browser). There are other ways than using a browser to ask a server to return a website. We will learn more about different methods later.
+![Analogy IP and Websites. Websites can be located on a particular server by their unique IP address](/images/ember-workshop-install-export-p1-c.jpg)
+
+As internet users we usually don't deal with IPs very much, but instead rely on more human-friendly urls consisting of words to navigate the web. Yet, every url for a website that is live relates to a unique IP which is a descriptive address for a particular server in which a website lives.
+
+![Analogy IP and Websites. Websites can be located on a particular server by their unique IP address](/images/ember-workshop-install-export-p1-b1.jpg)
+
+A server is usually a computer that is running in some other part of the world, which is connected to the internet and will _serve_ a website back to anyone who requests it (e.g. a user visiting the website using their browser). There are other ways than using a browser to ask a server to return a website. We will learn more about different methods later.
 
 
 ### What else can a browser do?
 
-Browsers allow you to not only view websites which are online and living on far-away server that you do not own (e.g. when visiting `https://emberjs.com`), but also websites that are **running on your computer** and that you have full control over. It is possible to make your own computer a server -  a home for websites. We call a server that lives on our computer a **local server** or sometimes more specifically a **localhost**. We will see how this works during the course of this workshop.
+Browsers allow you to not only view websites which are online and living on far-away server that you do not own (e.g. when visiting `https://emberjs.com`), but also websites that are **running on your computer** and that you have full control over. It is possible to make your own computer act as a server -  a home for website you want to build! We call a server that lives on our computer a **local server** or sometimes also a **localhost**. We will see how we can run our own local server during the course of this workshop.
 
 Finally, apart from letting you visit, view and interact with websites, a browser also comes together with a toolbox of useful features that allow you to write small programs right in your browser.
 

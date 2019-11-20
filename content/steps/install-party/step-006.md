@@ -1,5 +1,5 @@
 ---
-title: Step 6 - Directories
+title: Step 6 - Navigation Using the Terminal
 order: 6
 ---
 
@@ -23,7 +23,7 @@ And then navigate _into_ that directory using `cd` (which is used for <strong>c<
 cd my-new-folder
 ```
 
-You can also go "back up one level" by using the special case `..` (which always refers to "the folder one level up") 
+You can also go "back up one level" by using the special case `..` (which always refers to "the folder one level up")
 
 ```bash
 cd ..
@@ -45,3 +45,5 @@ Did you also know that you can copy-paste any of the commands from this tutorial
 Hit Control + C (Windows + Linux) or Cmd + C (Mac) while highlighting the command to copy it and use Control + V (or Cmd + V on Mac) while focussing your terminal window to paste it. This is especially useful for long commands that might take a while to type out.
 
 Some terminals have always had problems with copy and pasting into them, so if the shortcuts above don't seem to work then try right clicking in the terminal to see if let's you paste
+
+Finally, if you ever get stuck on navigating on your terminal, feel free to take a peek at [this useful cheatsheet](http://www.pragtob.info/rails-beginner-cheatsheet/) by [@PragTob](https://twitter.com/PragTob).
